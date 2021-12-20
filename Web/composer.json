@@ -1,0 +1,15 @@
+{
+    "name": "nathan/projet-bd",
+    "autoload": {
+        "psr-4": {
+            "Foot\\": "class/"
+        }
+    },
+    "authors": [
+        {
+            "name": "nathan-chriqui",
+            "email": "nathanchriqui1@gmail.com"
+        }
+    ],
+    "require": {}
+}
